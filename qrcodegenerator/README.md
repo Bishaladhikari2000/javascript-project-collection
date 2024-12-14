@@ -58,7 +58,12 @@ ss
 
 - Add error handling for invalid URLs.
 - Allow users to customize the size of the QR code.
-- Save the generated QR code as an image file.
+- Save the generated QR code as an imaged
+
+https://github.com/user-attachments/assets/9e5c5aff-e0ec-4be5-8622-3043bea2ac00
+
+
+
 
 ## License
 
